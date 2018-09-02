@@ -1,0 +1,22 @@
+{
+  "name": "name",
+  "homepage": "https://github.com/mdeen1/clock",
+  "authors": [
+    "Mustapha Deen <mdeen3@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "font-awesome": "^5.3.1"
+  }
+}
